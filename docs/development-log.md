@@ -6,3 +6,4 @@
 - Source page and Commission reuse policy verified; live binary retrieval failed (DNS). Actual schema remains a Day 2 gate.
 - Next: pin environment, add synthetic fixture and smoke tests.
 - P01-D01-C2: version-pinned Python environment, ignore rules and placeholder local configuration; Airflow/PostgreSQL deferred.
+- P01-D01-C3: synthetic XLSX, generator, expected counts, canonical contract and bounded local inspection script. Actual sheet mapping deliberately deferred.

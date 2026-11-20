@@ -1,0 +1,13 @@
+{
+  "synthetic": true,
+  "candidate_cells": 14,
+  "accepted": 8,
+  "rejected": 5,
+  "out_of_scope": 1,
+  "blank_price_cells": 16,
+  "examples": {
+    "IE_petrol_with_tax_2024-01-01": "1.750",
+    "IE_petrol_without_tax_2024-01-01": "0.950",
+    "IE_petrol_tax_component": "0.800"
+  }
+}
