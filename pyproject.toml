@@ -1,0 +1,13 @@
+[project]
+name = "eu-fuel-price-intelligence"
+version = "0.1.0"
+description = "Local European fuel price intelligence pipeline"
+requires-python = ">=3.12,<3.14"
+readme = "README.md"
+dependencies = ["openpyxl==3.1.5", "defusedxml==0.7.1"]
+
+[tool.pytest.ini_options]
+minversion = "9.0"
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-ra --strict-config --strict-markers"
